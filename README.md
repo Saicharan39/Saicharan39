@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saicharan Senigarapu
-- 👀 I’m interested in AIML and Developmnet
-- 🌱 I’m currently learning 
+- 👀 I’m interested in AIML and Application Developmnet
+- 🌱 I’m currently  a final year student and want's to build my carrier in Data Science 
 - 💞️ I’m looking to collaborate on AI and Development projects 
 - 📫 reach me on:  ssaicharan.vasavi@gmail.com
 - 😄 Pronouns: ...he/him
